@@ -1,12 +1,12 @@
 version: 0.1
 
 phases:
-	build:
-		commands:
+build:
+commands:
 - echo nothing
 
 artifacts:
-	files:
+files:
 - index.html
 - favicon.ico
 - styles/main.css
